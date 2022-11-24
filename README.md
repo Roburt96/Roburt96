@@ -2,7 +2,9 @@
 👋 !!! HELLO !!! 👋
 
 📚💻 I'm currently learning Python.
+
 📓 Higher education in finance.
+
 #️⃣ How to reach me: https://www.instagram.com/roburtsulev/
 
 🏟️🏟️🏟️  SPORTS CAREER  🏟️🏟️🏟️ 
