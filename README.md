@@ -6,9 +6,9 @@
 #️⃣ How to reach me: https://www.instagram.com/roburtsulev/
 
 🏟️🏟️🏟️  SPORTS CAREER  🏟️🏟️🏟️ 
-- Kickboxing and Sambo medalist: 🥈🥈🥈🥉🥉
-- Rugby National Champion: 🏆🏆🏆🏆
-- Hockey National Champion: 🏆🏆🥈
+- 🥊 Kickboxing and Sambo medalist: 🥈🥈🥈🥉🥉
+- 🏉 Rugby National Champion: 🏆🏆🏆🏆
+- 🏒 Hockey National Champion: 🏆🏆🥈
 - 🏃‍♂️ Marathons and semi-marathons: 42k: 🏅, 21k: 🏅🏅🏅, 10K: 🏅🏅🏅, 5k: 🏅🏅🏅🏅🏅
 🔜 Vitosha 100km run and bike 2023!
 🔜 Lion Hearth triathlon -> 🏊‍♂️ 3km swim, 🏃‍♂️ 21km run, 🚴‍♂️ 116km bike
