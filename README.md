@@ -1,8 +1,7 @@
 
 👋 !!! HELLO !!! 👋
 
-- 📚💻 I'm currently learning Python.
-- Progress --> [progress](https://github.com/Roburt96/SoftUni---Python-Progress/blob/main/README.md)
+- 📚💻 I'm currently learning Python [progress](https://github.com/Roburt96/SoftUni---Python-Progress/blob/main/README.md)
 
 - 📓 Higher education in finance.
 
