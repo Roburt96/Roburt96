@@ -1,32 +1,7 @@
 
-👋 !!! HELLO !!! 👋
+#### Skills
 
-- 📚💻 I'm currently learning Python [progress](https://github.com/Roburt96/SoftUni---Python-Progress/blob/main/README.md)
-
-- 📓 Higher education in finance.
-
-- #️⃣ How to reach me: https://www.instagram.com/roburtsulev/
-
-🏟️🏟️🏟️  SPORTS CAREER  🏟️🏟️🏟️ 
-- 🥊 Kickboxing and Sambo medalist: 🥈🥈🥈🥉🥉
-- 🏉 Rugby National Champion: 🏆🏆🏆🏆
-- 🏒 Hockey National Champion: 🏆🏆🥈
-- 🏃‍♂️ Marathons and semi-marathons: 42k: 🏅, 21k: 🏅🏅🏅, 10K: 🏅🏅🏅, 5k: 🏅🏅🏅🏅🏅
-- 🔜 Vitosha 100km run and bike 2023!
-- 🔜 Lion Hearth triathlon -> 🏊‍♂️ 3km swim, 🏃‍♂️ 21km run, 🚴‍♂️ 116km bike
-<!--
-**Roburt96/Roburt96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 [![](https://visitcount.itsvg.in/api?id=Roburt&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
