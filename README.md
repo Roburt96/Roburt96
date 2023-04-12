@@ -1,7 +1,7 @@
 
-#### Skills
 
-![Python](https://img.shields.io/badge/Python-blue)
+| Skills | repo |
+![Python](https://img.shields.io/badge/Python-blue)| [repositories]https://github.com/Roburt96/SoftUni---Python-Progress/edit/main/README.md|
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
